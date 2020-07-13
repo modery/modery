@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Rene Modery, Microsoft MVP and APAC Office 365 Project Manager, living in Singapore
+
 <!--
 **modery/modery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
