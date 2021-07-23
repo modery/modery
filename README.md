@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 I'm Rene Modery, Microsoft MVP and APAC Office 365 Project Manager, living in Singapore.
 
