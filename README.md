@@ -1,4 +1,4 @@
-### Hello there 👋
+# Hello there 👋
 
 I'm Rene Modery, Microsoft MVP and Power Platform Technical Lead, living in Singapore.
 
@@ -9,6 +9,11 @@ You can also find me here:
 🟣 [LinkedIn](https://www.linkedin.com/in/modery/)
  
 🔵 [Twitter](https://twitter.com/modery/)
+
+## PowerDocu
+
+My main project is [PowerDocu](https://github.com/modery/PowerDocu), which allows you to generate technical documentation from your existing Power Automate Flows and Power Apps canvas apps.
+
 <!--
 **modery/modery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
